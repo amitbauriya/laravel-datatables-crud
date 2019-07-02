@@ -1,9 +1,9 @@
-<p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg">
-[<img src="https://img.shields.io/badge/laravel-5.8-orange.svg">](http://laravel.com/) [<img src="https://img.shields.io/badge/yajra-9.x-blueviolet.svg">](https://github.com/yajra/laravel-datatables) <img src="https://img.shields.io/badge/license-MIT-blue.svg"> <img src="https://img.shields.io/badge/build-passing-green.svg"></p>
+<p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"><br>
+<img src="https://img.shields.io/badge/laravel-5.8-orange.svg"> <img src="https://img.shields.io/badge/yajra-9.x-blueviolet.svg"> <img src="https://img.shields.io/badge/license-MIT-blue.svg"> <img src="https://img.shields.io/badge/build-passing-green.svg"></p>
 
-## Laravel Datatables Crud
+## Laravel Datatables Crud Introduction
 
-<p>This project is created to handle crud operations through Yajra DataTables plugin via AJAX option.<br>
+<p>This project is created to handle crud operations through Yajra DataTables plugin via AJAX option.<br><br>
 Data tables whose behavior and appearance have be extended by components. For example authentication with email verify support, sorting, pagination or search the table. Added Import and Export option provided. </p>
 
 ## About Laravel
@@ -29,17 +29,17 @@ Official documentation of Yajra DataTables is available at [yajra.com](http://ya
 
 ------------
 
-Composer
-PHP >7.0
-Laravel >5.8
-Laravel DataTables v8.x|v9.x
+- Composer
+- PHP >7.0
+- Laravel >5.8
+- Laravel DataTables v8.x|v9.x
 
 ### Documentation
 
 ------------
 
-[Laravel DataTables Documentation](http://yajrabox.com/docs/laravel-datatables)
-Demo of [yajra-datatables](http://datatables.yajrabox.com/) is available for artisan's reference.
+- [Laravel DataTables Documentation](http://yajrabox.com/docs/laravel-datatables)
+- Demo of [yajra-datatables](http://datatables.yajrabox.com/) is available for artisan's reference.
 
 ### Installation
 
